@@ -10,5 +10,5 @@ To start, console: node bamazon.js
 After looking at the selection, you will be asked which product you want to purchase.
 
 If the product is in stock, you will get a confirmation message that will also give you your total.
-![Alt text](images/finished1.jpg?raw=true "Movie This")
+![Alt text](images/finished2.jpg?raw=true "Movie This")
 
